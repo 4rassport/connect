@@ -2,5 +2,5 @@
 "ras1": "ht",
 "ras2": "tps://httpbin",
 "sport1": ".org",
-"sport2": "headers"
+"sport2": "/headers"
 }
